@@ -1,0 +1,19 @@
+body {
+	 max-width: 500px;
+    margin: auto;
+}
+
+
+.form {
+ border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+
+}
+input[type=text]{
+width: 100%
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
